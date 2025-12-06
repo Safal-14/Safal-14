@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Safal Patil</h1>
 <h3 align="center">🚀 A sharp, insight-driven data analytics project using SQL & Python to decode credit card transactions, uncover trends, and power smarter financial decisions.</h3>
 
@@ -8,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **an AI SAAS tool which helps other business to see there business and company insights to take future decision**
 
-- 📫 How to reach me **safalpatil1@gmail.com**
+- 📫 How to reach me **safalpatil41@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KtASHBOEwlnvsq7hTNFZa6_ozrXDROsq/view?usp=drive_link](https://drive.google.com/file/d/1KtASHBOEwlnvsq7hTNFZa6_ozrXDROsq/view?usp=drive_link)
 
